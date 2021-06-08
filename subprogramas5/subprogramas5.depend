@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622134509 source:c:\users\moisesh432\desktop\codeblocks\alison\subprogramas5\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+
