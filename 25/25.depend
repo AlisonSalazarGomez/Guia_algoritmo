@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621461949 source:c:\users\moisesh432\desktop\codeblocks\alison\25\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<stdlib.h>
+
